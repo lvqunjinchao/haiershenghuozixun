@@ -1,0 +1,109 @@
+<div class="footer">
+    <div class="warp">
+        <div class="list o_g">
+            <div class="o_u">
+                <span>智慧家庭</span><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+            </div>
+            <div class="o_u">
+                <span>个人与智慧产品</span><br>
+                <a href="javascript:;">冰箱</a><br>
+                <a href="javascript:;">彩电</a><br>
+                <a href="javascript:;">电脑及外设</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+            </div>
+            <div class="o_u">
+                <span>商业解决方案</span><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+            </div>
+            <div class="o_u">
+                <span>购买与服务</span><br>
+                <a href="javascript:;">冰箱</a><br>
+                <a href="javascript:;">彩电</a><br>
+                <a href="javascript:;">电脑及外设</a><br>
+            </div>
+            <div class="o_u">
+                <span>关于海尔</span><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+            </div>
+            <div class="o_u">
+                <span>友情链接</span><br>
+                <a href="javascript:;">冰箱</a><br>
+                <a href="javascript:;">彩电</a><br>
+                <a href="javascript:;">电脑及外设</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+                <a href="javascript:;">智慧首页</a><br>
+            </div>
+        </div>
+        <div class="bottom">
+            <div class="o_bottom bottom_left">
+                <div><a href="javascript:;">关于海尔 </a></div><i>|</i>
+                <div><a href="javascript:;">法律声明 </a></div><i>|</i>
+                <div><a href="javascript:;">帮助中心 </a></div><i>|</i>
+                <div><a href="javascript:;">联系我们 </a></div><i>|</i>
+                <div><a href="javascript:;">海尔门店 </a></div>
+            </div>
+            <div class="o_bottom bottom_center">
+                <div><a href="javascript:;">鲁ICP备09096283 </a></div><i>|</i>
+                <div><a href="javascript:;"> Copyright ©2019 海尔集团 版权所有</a></div>
+            </div>
+            <div class="o_bottom bottom_right">
+                <div class="js_wechat_box"><a href="javascript:;">Haier 全球网站群 · 中国 关注海尔<span class="iconfont js_wechat">&#xe66c;</span></a></div>
+                <div class="sweep_code_box js_sweep_code_box">
+                    <img src="./images/ia_100000000.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="copyright">
+    <div class="copyright_top">
+        <a href="javascript:;">Haier 全球网站群 · 中国 关注海尔</a>
+    </div>
+    <div class="copyright_mid">
+        <a href="javascript:;">关于海尔 </a><i>|</i>
+        <a href="javascript:;">法律声明 </a><i>|</i>
+        <a href="javascript:;">联系我们 </a><i>|</i>
+        <a href="javascript:;">帮助中心 </a><i>|</i>
+        <a href="javascript:;">海尔门店 </a>
+    </div>
+</div>
+<div class="footer_750">
+    <div class="page">
+        <i class="iconfont">&#xe627;</i>
+        <span>首页</span>
+    </div>
+    <div class="page">
+        <i class="iconfont">&#xe67b;</i>
+        <span>产品</span>
+    </div>
+    <div class="page">
+        <i class="iconfont">&#xe60c;</i>
+        <span>服务</span>
+    </div>
+    <div class="page">
+        <i class="iconfont">&#xe66e;</i>
+        <span>我的</span>
+    </div>
+</div>

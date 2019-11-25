@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no, email=no" />
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10;IE=9; IE=8; IE=7; IE=EDGE">
+    <!-- css资源start -->
+    <link rel="stylesheet" href="./images/reset.css">
+    <link rel="stylesheet" href="./images/swiper.min.css">
+    <link rel="stylesheet" href="./images/iconfont/iconfont.css" />
+    <link rel="stylesheet" href="./images/layer.css">
+    <!-- css资源end -->
+    <!-- 本页面独立css start -->
+    <link rel="stylesheet" href="./images/haier.css">
+    <!-- 本页面独立css end -->
+    <title>生活资讯|海尔官网</title>
+</head>
+
+<body>
+    <div class="o_body relative">
+        <div class="o_main">
+            <div class="modal_bcakground js_modal_bcakground displaynone">
+                <div class="advice_modal js_advice_modal">
+                    <div class="advice_modal_header">
+                        <div class="modal_title">网站问题及建议反馈</div>
+                        <div class="advice_modal_close js_advice_modal_close">
+                            <span class="iconfont">&#xe65c;</span>
+                        </div>
+                    </div>
+                    <div class="advice_modal_body">
+                        <div class="current_service">
+                            如果您在浏览我们网站时遇到了问题，请将它告诉我们，感谢您对我们的支持。
+                        </div>
+                        <form action="" class="demoform">
+                            <div class="form_item">
+                                <div class="item_lable">
+                                    咨询类型
+                                </div>
+                                <div class="item_input">
+                                    <input type="text" datatype="*" errormsg="请输入内容">
+                                </div>
+                            </div>
+                            <div class="form_item">
+                                <div class="item_lable">
+                                    问题类型
+                                </div>
+                                <div class="item_select">
+                                    <select name="" id="">
+                                        <option value="">内容纠错</option>
+                                        <option value="">体验返回与及建议</option>
+                                        <option value="">系统问题</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form_item">
+                                <div class="item_lable">
+                                    电子邮件
+                                </div>
+                                <div class="item_input">
+                                    <input type="text" datatype="*" errormsg="请输入内容">
+                                </div>
+                            </div>
+                            <div class="form_item">
+                                <div class="item_lable">
+                                    联系电话
+                                </div>
+                                <div class="item_input">
+                                    <input type="text" datatype="*" errormsg="请输入内容">
+                                </div>
+                            </div>
+                            <div class="form_item">
+                                <div class="item_lable">
+                                    问题页面地址
+                                </div>
+                                <div class="item_input">
+                                    <input type="text" datatype="*" errormsg="请输入内容">
+                                </div>
+                            </div>
+                            <div class="form_item">
+                                <div class="item_lable">
+                                    咨询/反馈内容
+                                </div>
+                                <div class="item_textarea">
+                                    <textarea name="" id="" cols="30" rows="10" datatype="*" errormsg="请输入内容"></textarea>
+                                </div>
+                            </div>
+                            <div class="form_item">
+                                <div class="item_lable">
+
+                                </div>
+                                <div class="item_submit">
+                                    <button type="submit" class="submit_btn">提交</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <!-- 头部start -->
+            <!--#include virtual="header.shtml"-->
+            <!-- 头部end -->
+            <div class="righttip_box js_righttip_box">
+                <div class="advice js_advice righttip">
+                    <!-- 意见反馈 -->
+                    <img src="./images/ia_100000180.png" alt="">
+                </div>
+                <div class="backtop js_backtop righttip">
+                    <!-- 回到顶部 -->
+                    <img src="./images/ia_400000000.png" alt="">
+                </div>
+            </div>
+            <!-- 轮播图一整块 -->
+            <div class="banner_box">
+                <div class="o_g o_s">
+                    <div class="swiper-container relative">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide relative">
+                                <a href="javasprict:;">
+                                    <img src="./images/ia_100000006.jpg" alt="">
+                                    <span>智慧生活新地标——海尔智家001，即将亮相魔都！</span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide relative">
+                                <a href="javasprict:;">
+                                    <img src="./images/ia_100000007.jpg" alt="">
+                                    <span>智慧生活新地标——海尔智家001，即将亮相魔都！</span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide relative">
+                                <a href="javasprict:;">
+                                    <img src="./images/ia_100000007.jpg" alt="">
+                                    <span>智慧生活新地标——海尔智家001，即将亮相魔都！</span>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="m_box">
+                        <div class="box">
+                            <a href="javasprict:;" class="relative">
+                                <img src="./images/ia_100000009.jpg" alt="">
+                                <span>电热水器一直开着也能省电</span>
+                            </a>
+                            <a href="javasprict:;" class="relative">
+                                <img src="./images/ia_100000010.jpg" alt="">
+                                <span>还在单身？学会这几招脱单so easy~</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 次导航栏 -->
+            <div class="sub_nav js_sub_nav">
+                <div class="sub_nav_box">
+                    <div class="o_g">
+                        <div class="sub_list js_sub_list">
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span class="pale_blue">推荐</span></a>
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span>水</span></a>
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span>食材</span></a>
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span>生活</span></a>
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span>洗护</span></a>
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span>空气</span></a>
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span>教育</span></a>
+                            <a href="javasprict:;" class="js_sub_list_item js_ajaxitem"><span>健康</span></a>
+                            <div class="other_brands relative js_other_brands">
+                                <i class="js_other">其他品牌⬇</i>
+                                <div class="another js_another">
+                                    <span class="null"></span>
+                                    <span class="js_brands js_ajaxitem">卡萨帝</span>
+                                    <span class="js_brands js_ajaxitem">统帅</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sub_list_750">
+                            <div class="sub_list_box">
+                                <a href="javasprict:;"><span>推荐</span></a>
+                                <a href="javasprict:;"><span>水</span></a>
+                                <a href="javasprict:;"><span>食材</span></a>
+                                <a href="javasprict:;"><span>生活</span></a>
+                                <a href="javasprict:;"><span>洗护</span></a>
+                                <a href="javasprict:;"><span>空气</span></a>
+                                <a href="javasprict:;"><span>教育</span></a>
+                                <a href="javasprict:;"><span>健康</span></a>
+                                <a href="javasprict:;"><span>其他品牌⬇</span></a>
+                            </div>
+                        </div>
+                        <div class="search_box relative js_search_box">
+                            <div class="limit_box relative">
+                                <div class="input_box relative js_input_box">
+                                    <input type="search" class="js_search">
+                                    <span class="js_inputspan">请输入关键字</span>
+                                    <i class="iconfont input_i js_input_i">&#xe636;</i>
+                                </div>
+                                <div class="history_hot_box js_history_hot_box">
+                                    <div class="js_test">
+                                        <!-- <div class="his_hot_tit">热门搜索</div> -->
+                                        <!-- <div class="hot_box js_hot_box"> -->
+                                        <!-- <span>智能冰箱</span>
+                                        <span>智能冰箱</span> -->
+                                        <!-- </div> -->
+                                        <!-- <div class="js_his_container">
+                                            <div class="his_box clearfix js_his_box">
+                                            历史搜索
+                                            <span class="clearhis js_clearhis"><i></i>清除</span>
+                                        </div>
+                                        <ul class="his_ul js_his_ul"> -->
+                                        <!-- <li><a href="javascript:;">海尔官网搜索</a></li>
+                                        </ul> -->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="home_list js_home_list">
+            <div class="o_g">
+                <div class="home_list_left_box js_home_list_left_box">
+                    <!-- 水 -->
+                    <div class="home_list_left js_home_list_left">
+                        <!-- <div class="item">
+                                <div class="item_left">
+                                    <a href="javasprict:;"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="javasprict:;">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="javasprict:;">海尔冷柜</a>
+                                        <a href="javasprict:;">节气风俗</a>
+                                        <a href="javasprict:;">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div> -->
+                    </div>
+                    <div class="findmore js_findmore">发现更多</div>
+                </div>
+                <div class="home_list_right_box">
+                    <div class="animations">
+                        <div class="stage">
+                            <ul class="cube">
+                                <li>用户故事</li>
+                                <li>生活常识</li>
+                                <li>疾病预防</li>
+                                <li>美食烹饪</li>
+                                <li>智慧城市</li>
+                                <li>空气净化</li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="group">
+                        <span class="tit">热门视频</span>
+                        <div class="video_box">
+                            <a href="javasprict:;">
+                                <div class="img_box relative">
+                                    <img src="./images/ia_100000173.jpg" alt="">
+                                    <img src="./images/ia_100000176.png" alt="">
+                                </div>
+                                <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                            </a>
+                            <a href="javasprict:;">
+                                <div class="img_box relative">
+                                    <img src="./images/ia_100000175.jpg" alt="">
+                                    <img src="./images/ia_100000176.png" alt="">
+                                </div>
+                                <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                            </a>
+                        </div>
+                        <span class="tit">热门资讯</span>
+                        <div class="video_box">
+                            <a href="javasprict:;">
+                                <img src="./images/ia_100000177.jpg" alt="">
+                                <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                            </a>
+                            <a href="javasprict:;">
+                                <img src="./images/ia_100000178.jpg" alt="">
+                                <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                            </a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+
+        <!-- 尾部start -->
+        <!--#include virtual="footer.shtml"-->
+        <!-- 尾部end -->
+    </div>
+    </div>
+    <script type="text/javascript" src="images/browser.min.js"></script>
+    <script type="text/javascript" src="images/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="images/carhartl-jquery-cookie-92b7715/jquery.cookie.js"></script>
+    <script type="text/javascript" src="images/swiper.min.js"></script>
+    <script type="text/javascript" src="images/respond.min.js"></script>
+    <script type="text/javascript" src="images/layer.js"></script>
+    <script type="text/javascript" src="images/Validform_v5.3.2/Validform_v5.3.2_min.js"></script>
+
+    <!-- 本地页面独立js start -->
+    <script type="text/babel" src="images/haier.js"></script>
+    <!-- 本页面独立js end -->
+</body>
+
+</html>

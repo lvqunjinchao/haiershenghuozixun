@@ -1,0 +1,110 @@
+/* 头部 */
+
+.o_g .logo_box {
+    display: inline-block;
+    width: 33.33333333%;
+    position: relative;
+    vertical-align: top;
+}
+
+.o_g .m_list1 {
+    display: none;
+}
+
+.link {
+    display: inline-block;
+    text-align: right;
+    height: 100%;
+    width: 66.66666667%;
+}
+
+.link .i_box {
+    font-size: 30px;
+    height: 100%;
+    width: 60px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/* 身体 */
+
+.m_box {
+    display: none;
+}
+
+.swiper-container {
+    display: inline-block;
+    width: 100%;
+}
+
+.o_s {
+    padding: 20px 0;
+}
+
+.home_list_right_box {
+    display: none;
+}
+
+.home_list_left_box {
+    display: inline-block;
+    width: 100%;
+    padding-bottom: 15.2vh;
+}
+
+.search_box {
+    display: none;
+}
+
+.sub_list {
+    display: inline-block;
+    width: 100%;
+}
+
+.home_list_left .item {
+    width: 100%;
+}
+
+.swiper-pagination-bullet {
+    width: 7px;
+    border-radius: 100%;
+    height: 7px;
+}
+
+.r_bottom_right {
+    display: none;
+}
+
+.item {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+/* 尾部 */
+
+.footer {
+    display: none;
+}
+
+.footer_750 {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    left: 0;
+    bottom: 0;
+    height: 15.2vh;
+    border-top: 1px solid #c8c8c8;
+    background: #fff;
+    z-index: 999;
+}
+
+.footer_750 .page i {
+    font-size: 2.13vh;
+}
+
+.page {
+    text-align: center;
+}

@@ -1,0 +1,611 @@
+/* 公共 */
+
+.o_body,
+.o_main {
+    min-height: 100% !important;
+}
+
+.o_body {
+    overflow: hidden;
+    position: relative;
+    z-index: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+
+/* 阿里图标库 */
+
+
+/* @font-face {
+    font-family: 'iconfont';
+    src: url('iconfont.eot');
+    src: url('iconfont.eot?#iefix') format('embedded-opentype'), url('iconfont.woff2') format('woff2'), url('iconfont.woff') format('woff'), url('iconfont.ttf') format('truetype'), url('iconfont.svg#iconfont') format('svg');
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+} */
+
+
+/* 头部 */
+
+.header {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.nav {
+    max-width: 1260px;
+    margin: 0 auto;
+    height: 60px;
+    line-height: 60px;
+}
+
+.o_g {
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 0!important;
+}
+
+.relative {
+    position: relative;
+}
+
+.o_g .logo {
+    background: url(../images/ia_100000184.png) 0 -630px;
+    display: inline-block;
+    height: 21px;
+    width: 71px;
+    margin: 0 0 5px 5px;
+    vertical-align: middle;
+}
+
+.o_g .logo_box {
+    display: inline-block;
+    width: 8.33333333%;
+    position: relative;
+    vertical-align: top;
+}
+
+.o_g .m_list1 {
+    display: inline-block;
+    width: 66.66666667%;
+    /* display: inline-block相邻存在留白现象 */
+    font-size: 0!important;
+}
+
+.m_list1 a {
+    display: inline-block;
+    width: 16.66666667%;
+    font-weight: bold;
+    text-align: center;
+    box-sizing: border-box;
+    color: #666;
+    font-size: 14px;
+}
+
+.link {
+    display: none;
+}
+
+
+/* 轮播图 */
+
+.banner_box {
+    max-width: 1260px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.swiper-container {
+    width: 66.66666667%;
+    height: 100%;
+    display: inline-block;
+}
+
+.swiper-slide {
+    font-size: 18px;
+    background: #fff;
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper-wrapper {
+    font-size: 0!important;
+}
+
+.swiper-pagination {
+    display: inline-block;
+}
+
+.swiper-pagination-bullet {
+    width: 50px;
+    border-radius: 0;
+    height: 4px;
+}
+
+.swiper-slide span {
+    position: absolute;
+    color: #fff;
+    font-size: 22px;
+    width: 95%;
+    left: 5%;
+    bottom: 5%;
+}
+
+.swiper-slide a {
+    display: inline-block;
+    width: 100%;
+    padding-left: 5px;
+}
+
+.swiper-slide a img {
+    width: 100%;
+    /* border: 0; */
+}
+
+.o_s {
+    padding: 40px 0;
+}
+
+
+/* 轮播图右侧 */
+
+.m_box {
+    width: 33.33333333%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.box {
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 16px;
+    font-size: 0!important;
+}
+
+.box a {
+    width: 99%;
+    display: inline-block;
+    overflow: hidden;
+}
+
+.box a:nth-child(1) {
+    margin-bottom: 16px;
+}
+
+.box a span {
+    position: absolute;
+    color: #fff;
+    bottom: 10px;
+    left: 20px;
+    font-size: 22px;
+    z-index: 1;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 300px;
+    word-wrap: normal;
+}
+
+.box a img {
+    width: 100%;
+    display: block;
+}
+
+
+/* 次导航栏 */
+
+.sub_nav {
+    height: 60px;
+    background: #f6f6f6;
+}
+
+.sub_nav_box {
+    max-width: 1260px;
+    margin: auto;
+}
+
+.sub_list {
+    width: 66.66666667%;
+    display: inline-block;
+}
+
+.sub_list a {
+    width: 11.1%;
+    display: inline-block;
+    text-align: center;
+    margin-right: -4px;
+    line-height: 58px;
+    color: #666666;
+    cursor: pointer;
+    border-top: 2px solid #f6f6f6;
+    box-sizing: border-box;
+}
+
+.sub_list a span {
+    font-size: 14px;
+    color: #333;
+}
+
+* {
+    font-size: 14px;
+    color: #333;
+}
+
+.search_box {
+    display: inline-block;
+    width: 33.33333333%;
+    text-align: right;
+}
+
+.search_box input {
+    border: 1px solid #e5e5e5;
+    outline: none;
+    max-width: 291px;
+    height: 40px;
+    width: 83%;
+    padding: 0 15% 0 5%;
+    line-height: 40px;
+}
+
+.search_box span {
+    position: absolute;
+    right: 47%;
+    top: 26%;
+}
+
+.search_box i {
+    position: absolute;
+    right: 3%;
+    top: 21%;
+}
+
+
+/* home列表左边 */
+
+.home_list {
+    max-width: 1260px;
+    margin: auto;
+    min-height: 800px;
+    padding: 0 10px;
+}
+
+.home_list_left_box {
+    width: 75%;
+    display: inline-block;
+}
+
+.home_list_left {
+    width: 100%;
+}
+
+.home_list_left .item {
+    width: 90%;
+    border-bottom: 1px solid #e5e5e5;
+    padding: 30px 0;
+    vertical-align: middle;
+    font-size: 0!important;
+}
+
+.home_list_left .item .item_left {
+    width: 25%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.home_list_left .item .item_left a {
+    width: 100%;
+    /* max-height: 93px; */
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+}
+
+.r_top a div {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    padding-left: 24px;
+}
+
+.item .item_left a img {
+    width: 100%;
+    display: block;
+    border: 0;
+}
+
+.home_list_left .item .item_right {
+    width: 75%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.r_bottom_left,
+.r_bottom_right {
+    display: inline-block;
+}
+
+.r_bottom_left a {
+    display: inline-block;
+    border-left: 1px solid #e5e5e5;
+    padding: 0 23px;
+    height: 14px;
+    line-height: 14px;
+}
+
+.r_bottom_left a:nth-child(1) {
+    border-left: none;
+}
+
+.r_bottom_right {
+    float: right;
+}
+
+.r_bottom_right span {
+    color: #c6cacb;
+    margin-left: 10px;
+}
+
+
+/* 发现更多 */
+
+.findmore {
+    width: 100%;
+    font-size: 16px;
+    text-align: center;
+    color: #32beff;
+    padding: 30px 0 60px 0;
+    cursor: pointer;
+}
+
+
+/* home列表右边 */
+
+.home_list_right_box {
+    width: 25%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+/* 高级动画 */
+
+.animations {
+    margin: 60px 0 60px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.stage {
+    transform-style: preserve-3d;
+    display: inline-block;
+}
+
+.cube {
+    /* 开启3D 放在需要动画的容器内*/
+    transform-style: preserve-3d;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    /* border: 1px solid gold; */
+    animation: rotetesq 5s linear infinite;
+}
+
+.cube li {
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    list-style-type: none;
+    /* background-color: #00B700; */
+    text-align: center;
+    line-height: 100px;
+    opacity: 0.7;
+    /* 延迟执行2秒 */
+    transition: all 0.5s;
+}
+
+.cube li:nth-child(1) {
+    transform: translateZ(50px);
+}
+
+.cube li:nth-child(2) {
+    /* 先旋转在位移,否则位置会有差错 */
+    transform: rotateY(90deg) translateZ(50px);
+}
+
+.cube li:nth-child(3) {
+    /* 先旋转在位移,否则位置会有差错 */
+    transform: rotateY(180deg) translateZ(50px);
+}
+
+.cube li:nth-child(4) {
+    transform: rotateY(270deg) translateZ(50px);
+}
+
+.cube li:nth-child(5) {
+    transform: rotateX(90deg) translateZ(50px);
+}
+
+.cube li:nth-child(6) {
+    transform: rotateX(270deg) translateZ(50px);
+}
+
+
+/* .cube:hover 表示已经是.cube下的子元素了,空格就是子元素选择器啊啊啊啊 */
+
+.cube:hover li:nth-child(1) {
+    transform: translateZ(100px);
+}
+
+.cube:hover li:nth-child(2) {
+    transform: rotateY(90deg) translateZ(100px);
+}
+
+.cube:hover li:nth-child(3) {
+    transform: rotateY(180deg) translateZ(100px);
+}
+
+.cube:hover li:nth-child(4) {
+    transform: rotateY(270deg) translateZ(100px);
+}
+
+.cube:hover li:nth-child(5) {
+    transform: rotateX(90deg) translateZ(100px);
+}
+
+.cube:hover li:nth-child(6) {
+    transform: rotateX(270deg) translateZ(100px);
+}
+
+@keyframes rotetesq {
+    from {
+        transform: rotateX(0deg) rotateY(0deg) rotateZ(0deg);
+    }
+    to {
+        transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+    }
+}
+
+
+/* 热门视频 */
+
+.tit {
+    font-size: 24px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.group {
+    width: 100%;
+}
+
+.video_box a {
+    width: 100%;
+    position: relative;
+    display: inline-block;
+}
+
+.video_box {
+    position: relative;
+    margin-bottom: 30px;
+    width: 100%;
+}
+
+.video_box a img {
+    width: 100%;
+    display: block;
+}
+
+.video_box a span {
+    font-size: 16px;
+    position: absolute;
+    bottom: 0;
+    display: inline-block;
+    left: 0;
+    position: relative;
+    margin-top: 10px;
+    width: 99%;
+    font-weight: bold;
+}
+
+
+/* 尾部 */
+
+.footer {
+    width: 100%;
+    max-width: 1680px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 405px;
+    background: #f6f7f9;
+}
+
+.footer_750 {
+    display: none;
+}
+
+.footer .warp {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 15px 0;
+    display: block;
+}
+
+.list {
+    font-size: 0!important;
+}
+
+.o_u {
+    display: inline-block;
+    width: 16.66666667%;
+    vertical-align: top;
+    box-sizing: border-box;
+    text-rendering: auto;
+}
+
+.o_u span {
+    font-size: 14px;
+    padding: 15px 0;
+    display: inline-block;
+    font-weight: 700;
+    color: #333;
+}
+
+.footer .warp .o_u a {
+    font-size: 12px;
+    color: #444;
+    display: inline-block;
+    width: auto;
+    padding: 5px 0;
+}
+
+.footer .warp .bottom {
+    margin-top: 23px;
+    background-color: transparent;
+    padding: 15px 0;
+    border-top: 1px solid #c8c8c8;
+    font-size: 0!important;
+}
+
+.footer .warp i {
+    font-style: normal;
+    padding: 0 10px;
+}
+
+.o_bottom {
+    display: inline-block;
+    font-style: normal;
+    width: 33.33333333%;
+    vertical-align: middle;
+}
+
+.bottom_center {
+    text-align: center;
+}
+
+.bottom_right {
+    text-align: right;
+}
+
+.footer a {
+    font-size: 12px;
+}

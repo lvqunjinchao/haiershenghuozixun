@@ -1,0 +1,16 @@
+{
+    "history": [{
+        "id": 1,
+        "history_name": "统帅"
+    }, {
+        "id": 2,
+        "history_name": "卡萨帝"
+    }],
+    "hot": [{
+        "id": 1,
+        "hot_name": "海尔冰箱"
+    }, {
+        "id": 2,
+        "hot_name": "小机器人"
+    }]
+}

@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="format-detection" content="telephone=no, email=no" />
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=10;IE=9; IE=8; IE=7; IE=EDGE">
+    <!-- css资源start -->
+    <link rel="stylesheet" href="./images/reset.css">
+    <link rel="stylesheet" href="./images/swiper.min.css">
+    <link rel="stylesheet" href="./images/iconfont/iconfont.css" />
+    <!-- css资源end -->
+    <!-- 本页面独立css start -->
+    <link rel="stylesheet" href="./images/haier.css">
+    <link rel="stylesheet" href="./images/haier_750.css" media="screen and (max-width: 750px)">
+    <!-- 本页面独立css end -->
+    <title>生活资讯|海尔官网</title>
+</head>
+
+<body>
+    <div class="o_body">
+        <div class="o_main">
+            <!-- 头部start -->
+            <!--#include virtual="header.shtml"-->
+            <!-- 头部end -->
+
+
+            <div class="banner_box">
+                <div class="o_g o_s">
+                    <div class="swiper-container relative">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide relative">
+                                <a href="#">
+                                    <img src="./images/ia_100000006.jpg" alt="">
+                                    <span>智慧生活新地标——海尔智家001，即将亮相魔都！</span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide relative">
+                                <a href="#">
+                                    <img src="./images/ia_100000007.jpg" alt="">
+                                    <span>智慧生活新地标——海尔智家001，即将亮相魔都！</span>
+                                </a>
+                            </div>
+                            <div class="swiper-slide relative">
+                                <a href="#">
+                                    <img src="./images/ia_100000007.jpg" alt="">
+                                    <span>智慧生活新地标——海尔智家001，即将亮相魔都！</span>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
+                    <div class="m_box">
+                        <div class="box">
+                            <a href="#" class="relative">
+                                <img src="./images/ia_100000009.jpg" alt="">
+                                <span>电热水器一直开着也能省电</span>
+                            </a>
+                            <a href="#" class="relative">
+                                <img src="./images/ia_100000010.jpg" alt="">
+                                <span>还在单身？学会这几招脱单so easy~</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- 次导航栏 -->
+            <div class="sub_nav">
+                <div class="sub_nav_box">
+                    <div class="o_g">
+                        <div class="sub_list">
+                            <a href="#"><span>推荐</span></a>
+                            <a href="#"><span>水</span></a>
+                            <a href="#"><span>食材</span></a>
+                            <a href="#"><span>生活</span></a>
+                            <a href="#"><span>洗护</span></a>
+                            <a href="#"><span>空气</span></a>
+                            <a href="#"><span>教育</span></a>
+                            <a href="#"><span>健康</span></a>
+                            <a href="#"><span>其他品牌⬇</span></a>
+                        </div>
+                        <div class="search_box relative">
+                            <input type="search">
+                            <span>请输入关键字</span>
+                            <i>🔍</i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="home_list">
+                <div class="o_g">
+                    <div class="home_list_left_box">
+                        <div class="home_list_left">
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+                            <div class="item">
+                                <div class="item_left">
+                                    <a href="#"><img src="./images/ia_100000155.jpg" alt=""></a>
+                                </div>
+                                <div class="item_right">
+                                    <div class="r_top">
+                                        <a href="#">
+                                            <div>立冬|万物冷藏，鲜如新生</div>
+                                        </a>
+                                    </div>
+                                    <div class="r_bottom_left">
+                                        <a href="#">海尔冷柜</a>
+                                        <a href="#">节气风俗</a>
+                                        <a href="#">生活常识</a>
+                                    </div>
+                                    <div class="r_bottom_right">
+                                        <span>248</span>
+                                        <span>0</span>
+                                        <span>0</span>
+                                    </div>
+                                    <div class="clear"></div>
+                                </div>
+                            </div>
+
+
+                        </div>
+                        <div class="findmore">发现更多</div>
+                    </div>
+                    <div class="home_list_right_box">
+                        <div class="animations">
+                            <div class="stage">
+                                <ul class="cube">
+                                    <li>用户故事</li>
+                                    <li>生活常识</li>
+                                    <li>疾病预防</li>
+                                    <li>美食烹饪</li>
+                                    <li>智慧城市</li>
+                                    <li>空气净化</li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="group">
+                            <span class="tit">热门视频</span>
+                            <div class="video_box">
+                                <a href="#">
+                                    <img src="./images/ia_100000173.jpg" alt="">
+                                    <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                                </a>
+                                <a href="#">
+                                    <img src="./images/ia_100000173.jpg" alt="">
+                                    <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                                </a>
+                            </div>
+                            <span class="tit">热门资讯</span>
+                            <div class="video_box">
+                                <a href="#">
+                                    <img src="./images/ia_100000173.jpg" alt="">
+                                    <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                                </a>
+                                <a href="#">
+                                    <img src="./images/ia_100000173.jpg" alt="">
+                                    <span>爱吐槽第九期|遇到抠门的人是“难忘”的体验</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <!-- 尾部start -->
+            <!--#include virtual="footer.shtml"-->
+            <!-- 尾部end -->
+        </div>
+    </div>
+    <script type="text/javascript" src="images/jquery-1.8.3.min.js"></script>
+    <script type="text/javascript" src="images/swiper.min.js"></script>
+    <!-- 本地页面独立js start -->
+    <script type="text/javascript" src="images/haier.js"></script>
+    <!-- 本页面独立js end -->
+</body>
+
+</html>

@@ -1,0 +1,179 @@
+/* 头部 */
+
+.o_g .logo_box {
+    display: inline-block;
+    width: 33.33333333%;
+    position: relative;
+    vertical-align: top;
+}
+
+.o_g .m_list1 {
+    display: none;
+}
+
+.link {
+    display: inline-block;
+    text-align: right;
+    height: 100%;
+    width: 66.66666667%;
+}
+
+.link .i_box {
+    font-size: 30px;
+    height: 100%;
+    width: 60px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+/* 身体 */
+
+.m_box {
+    display: none;
+}
+
+.swiper-container {
+    display: inline-block;
+    width: 100%;
+}
+
+.o_s {
+    padding: 20px 0;
+}
+
+.home_list_right_box {
+    display: none;
+}
+
+.home_list_left_box {
+    display: inline-block;
+    width: 100%;
+}
+
+.search_box {
+    display: none;
+}
+
+.sub_list {
+    display: none;
+}
+
+.sub_list_750 {
+    width: 100%;
+    display: inline-block;
+    background-color: rgb(246, 246, 246);
+    /*添加横向滚动条*/
+    overflow-x: scroll;
+    overflow-y: hidden;
+    /*不换行*/
+    white-space: nowrap;
+}
+
+.sub_list_box {
+    height: 60px;
+    width: 100%;
+    line-height: 60px;
+}
+
+.sub_list_750 a {
+    width: 20% !important;
+    display: inline-block;
+    text-align: center;
+    margin-right: -4px;
+    line-height: 58px;
+    color: #666666;
+    cursor: pointer;
+    border-top: 2px solid #f6f6f6;
+    box-sizing: border-box;
+}
+
+.home_list_left .item {
+    width: 100%;
+}
+
+.swiper-pagination-bullet {
+    width: 7px;
+    border-radius: 100%;
+    height: 7px;
+}
+
+.r_bottom_right {
+    display: none;
+}
+
+.item {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.r_top a div {
+    padding-left: 1vw;
+}
+
+.r_bottom_left a {
+    padding: 0 1vw;
+}
+
+.findmore {
+    font-size: 3.67vw;
+    padding: 4.9vw 0 8vw 0;
+}
+
+.swiper-slide a {
+    padding-right: 5px;
+}
+
+.backtop {
+    display: none;
+}
+
+
+/* 尾部 */
+
+.footer {
+    display: none;
+}
+
+.footer_750 {
+    position: fixed;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    left: 0;
+    bottom: 0;
+    height: 15.2vw;
+    border-top: 1px solid #c8c8c8;
+    background: #fff;
+    z-index: 999;
+}
+
+.footer_750 .page i {
+    padding-top: 1.87vw;
+    font-size: 5.72vw;
+    display: block;
+}
+
+.page {
+    text-align: center;
+}
+
+.page span {
+    font-size: 3vw;
+}
+
+.copyright {
+    display: block;
+    width: 100%;
+    padding-bottom: 20.2vw;
+    text-align: center;
+}
+
+.copyright i {
+    font-style: normal;
+}
+
+.copyright a {
+    font-size: 3.6vw;
+}

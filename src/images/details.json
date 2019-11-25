@@ -1,0 +1,102 @@
+{
+    "details": [{
+            "id": 1,
+            "item_left_img": "./images/ia_100000173.jpg",
+            "item_right_title": "立冬|万物冷藏，鲜如新生",
+            "r_bottom_left_1": "海尔冷柜",
+            "r_bottom_left_2": "节气风俗",
+            "r_bottom_left_3": "生活常识",
+            "r_bottom_right_1": 248,
+            "r_bottom_right_2": 0,
+            "r_bottom_right_3": 1
+        },
+        {
+            "id": 2,
+            "item_left_img": "./images/ia_100000155.jpg",
+            "item_right_title": "什么热水器又小巧又使用",
+            "r_bottom_left_1": "家电选购",
+            "r_bottom_left_2": "海尔热水器",
+            "r_bottom_left_3": "全屋用水",
+            "r_bottom_right_1": 222,
+            "r_bottom_right_2": 2,
+            "r_bottom_right_3": 2
+        },
+        {
+            "id": 3,
+            "item_left_img": "./images/ia_100000175.jpg",
+            "item_right_title": "保护家人皮肤，健康洗浴还需净水洗",
+            "r_bottom_left_1": "嗨购节",
+            "r_bottom_left_2": "浴室装修",
+            "r_bottom_left_3": "智家生活",
+            "r_bottom_right_1": 333,
+            "r_bottom_right_2": 3,
+            "r_bottom_right_3": 3
+        }, {
+            "id": 4,
+            "item_left_img": "./images/ia_100000173.jpg",
+            "item_right_title": "立冬|万物冷藏，鲜如新生",
+            "r_bottom_left_1": "海尔冷柜",
+            "r_bottom_left_2": "节气风俗",
+            "r_bottom_left_3": "生活常识",
+            "r_bottom_right_1": 248,
+            "r_bottom_right_2": 0,
+            "r_bottom_right_3": 1
+        },
+        {
+            "id": 5,
+            "item_left_img": "./images/ia_100000155.jpg",
+            "item_right_title": "什么热水器又小巧又使用",
+            "r_bottom_left_1": "家电选购",
+            "r_bottom_left_2": "海尔热水器",
+            "r_bottom_left_3": "全屋用水",
+            "r_bottom_right_1": 222,
+            "r_bottom_right_2": 2,
+            "r_bottom_right_3": 2
+        },
+        {
+            "id": 6,
+            "item_left_img": "./images/ia_100000175.jpg",
+            "item_right_title": "保护家人皮肤，健康洗浴还需净水洗",
+            "r_bottom_left_1": "嗨购节",
+            "r_bottom_left_2": "浴室装修",
+            "r_bottom_left_3": "智家生活",
+            "r_bottom_right_1": 333,
+            "r_bottom_right_2": 3,
+            "r_bottom_right_3": 3
+        },
+        {
+            "id": 7,
+            "item_left_img": "./images/ia_100000173.jpg",
+            "item_right_title": "立冬|万物冷藏，鲜如新生",
+            "r_bottom_left_1": "海尔冷柜",
+            "r_bottom_left_2": "节气风俗",
+            "r_bottom_left_3": "生活常识",
+            "r_bottom_right_1": 248,
+            "r_bottom_right_2": 0,
+            "r_bottom_right_3": 1
+        },
+        {
+            "id": 8,
+            "item_left_img": "./images/ia_100000155.jpg",
+            "item_right_title": "什么热水器又小巧又使用",
+            "r_bottom_left_1": "家电选购",
+            "r_bottom_left_2": "海尔热水器",
+            "r_bottom_left_3": "全屋用水",
+            "r_bottom_right_1": 222,
+            "r_bottom_right_2": 2,
+            "r_bottom_right_3": 2
+        },
+        {
+            "id": 9,
+            "item_left_img": "./images/ia_100000175.jpg",
+            "item_right_title": "保护家人皮肤，健康洗浴还需净水洗",
+            "r_bottom_left_1": "嗨购节",
+            "r_bottom_left_2": "浴室装修",
+            "r_bottom_left_3": "智家生活",
+            "r_bottom_right_1": 333,
+            "r_bottom_right_2": 3,
+            "r_bottom_right_3": 3
+        }
+    ]
+
+}
